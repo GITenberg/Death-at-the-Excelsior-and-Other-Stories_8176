@@ -1,5 +1,8 @@
 _repo: Death-at-the-Excelsior-and-Other-Stories_8176
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -16,6 +19,8 @@ description: Although P.G. Wodehouse is best known as a writer of humorous ficti
   collection is a detective story, albeit one that is served up with a heaping dollop
   of the hilarity for which Wodehouse's work is acclaimed. This comprehensive collection
   of short pieces from Wodehouse is a perfect introduction to his unique style.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8176#Death-at-the-Excelsior-and-Other-Stories
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
